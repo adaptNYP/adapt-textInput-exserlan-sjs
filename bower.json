@@ -1,0 +1,15 @@
+{
+  "name": "adapt-textInput-exserlan-sjs",
+  "version": "1.0.0",
+  "framework": ">=5",
+  "homepage": "https://github.com/adaptNYP/adapt-textInput-exserlan-sjs",
+  "component" : "textinput-exserlan-sjs",
+  "displayName" : "Text Input EXSERLAN SJS",
+  "description": "A question component that allows the learner to input text based upon a question stem.",
+  "main": "/js/adapt-textInput-exserlan-sjs.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
+}
